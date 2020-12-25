@@ -1,0 +1,15 @@
+G:\faks\3godina\CSharp\vjezbaZaKolokvij\forma\bin\Debug\netcoreapp3.1\forma.exe
+G:\faks\3godina\CSharp\vjezbaZaKolokvij\forma\bin\Debug\netcoreapp3.1\forma.deps.json
+G:\faks\3godina\CSharp\vjezbaZaKolokvij\forma\bin\Debug\netcoreapp3.1\forma.runtimeconfig.json
+G:\faks\3godina\CSharp\vjezbaZaKolokvij\forma\bin\Debug\netcoreapp3.1\forma.runtimeconfig.dev.json
+G:\faks\3godina\CSharp\vjezbaZaKolokvij\forma\bin\Debug\netcoreapp3.1\forma.dll
+G:\faks\3godina\CSharp\vjezbaZaKolokvij\forma\bin\Debug\netcoreapp3.1\forma.pdb
+G:\faks\3godina\CSharp\vjezbaZaKolokvij\forma\obj\Debug\netcoreapp3.1\forma.csprojAssemblyReference.cache
+G:\faks\3godina\CSharp\vjezbaZaKolokvij\forma\obj\Debug\netcoreapp3.1\forma.Form1.resources
+G:\faks\3godina\CSharp\vjezbaZaKolokvij\forma\obj\Debug\netcoreapp3.1\forma.csproj.GenerateResource.cache
+G:\faks\3godina\CSharp\vjezbaZaKolokvij\forma\obj\Debug\netcoreapp3.1\forma.AssemblyInfoInputs.cache
+G:\faks\3godina\CSharp\vjezbaZaKolokvij\forma\obj\Debug\netcoreapp3.1\forma.AssemblyInfo.cs
+G:\faks\3godina\CSharp\vjezbaZaKolokvij\forma\obj\Debug\netcoreapp3.1\forma.csproj.CoreCompileInputs.cache
+G:\faks\3godina\CSharp\vjezbaZaKolokvij\forma\obj\Debug\netcoreapp3.1\forma.dll
+G:\faks\3godina\CSharp\vjezbaZaKolokvij\forma\obj\Debug\netcoreapp3.1\forma.pdb
+G:\faks\3godina\CSharp\vjezbaZaKolokvij\forma\obj\Debug\netcoreapp3.1\forma.genruntimeconfig.cache

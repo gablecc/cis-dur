@@ -1,0 +1,13 @@
+G:\faks\3godina\CSharp\vjezbaZaKolokvij\Zadatak1\bin\Debug\netcoreapp3.1\Zadatak1.exe
+G:\faks\3godina\CSharp\vjezbaZaKolokvij\Zadatak1\bin\Debug\netcoreapp3.1\Zadatak1.deps.json
+G:\faks\3godina\CSharp\vjezbaZaKolokvij\Zadatak1\bin\Debug\netcoreapp3.1\Zadatak1.runtimeconfig.json
+G:\faks\3godina\CSharp\vjezbaZaKolokvij\Zadatak1\bin\Debug\netcoreapp3.1\Zadatak1.runtimeconfig.dev.json
+G:\faks\3godina\CSharp\vjezbaZaKolokvij\Zadatak1\bin\Debug\netcoreapp3.1\Zadatak1.dll
+G:\faks\3godina\CSharp\vjezbaZaKolokvij\Zadatak1\bin\Debug\netcoreapp3.1\Zadatak1.pdb
+G:\faks\3godina\CSharp\vjezbaZaKolokvij\Zadatak1\obj\Debug\netcoreapp3.1\Zadatak1.csprojAssemblyReference.cache
+G:\faks\3godina\CSharp\vjezbaZaKolokvij\Zadatak1\obj\Debug\netcoreapp3.1\Zadatak1.AssemblyInfoInputs.cache
+G:\faks\3godina\CSharp\vjezbaZaKolokvij\Zadatak1\obj\Debug\netcoreapp3.1\Zadatak1.AssemblyInfo.cs
+G:\faks\3godina\CSharp\vjezbaZaKolokvij\Zadatak1\obj\Debug\netcoreapp3.1\Zadatak1.csproj.CoreCompileInputs.cache
+G:\faks\3godina\CSharp\vjezbaZaKolokvij\Zadatak1\obj\Debug\netcoreapp3.1\Zadatak1.dll
+G:\faks\3godina\CSharp\vjezbaZaKolokvij\Zadatak1\obj\Debug\netcoreapp3.1\Zadatak1.pdb
+G:\faks\3godina\CSharp\vjezbaZaKolokvij\Zadatak1\obj\Debug\netcoreapp3.1\Zadatak1.genruntimeconfig.cache
